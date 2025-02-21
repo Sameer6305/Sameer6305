@@ -11,12 +11,13 @@ I am a passionate Electronics and Telecommunication Engineering student, current
 ## 🎯 Hobbies  
 - Exploring new technologies  
 - Watching movies  
-- Circuit designing  
+- Listening Music
+- Trecking  
 
 ## 💡 Projects  
 - **Fuel Monitoring System** *(ATmega328, Float Sensor, Arduino, LCD, Digital Fuel Gauge)*  
 - **On-Demand Pet Grooming Vans in India** *(Entrepreneurship Class Project)*  
-- **Fourier Transform for Image Sharpening (MATLAB)*  
+- **Fourier Transform for Image Sharpening (MATLAB)*
 
 ## 🛠️ Skills  
 - Embedded Systems (ATmega328, Arduino)  
