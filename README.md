@@ -1,16 +1,31 @@
-## Hi there 👋
+# ![Sameer6305]([your-image-or-gif-url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F222829&psig=AOvVaw3u_ptMYQ1buUujZglomMA_&ust=1740222763247000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDp9JTR1IsDFQAAAAAdAAAAABAE))
 
-<!--
-**Sameer6305/Sameer6305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me  
+I am a passionate Electronics and Telecommunication Engineering student, currently in my 4th semester. I enjoy working on hardware and software projects, with a strong interest in embedded systems and digital signal processing.
 
-Here are some ideas to get you started:
+## 🎓 Education  
+- **B.Tech in Electronics and Telecommunication Engineering**  
+  *[MIT Alandi]*  
+  Semester: 4th  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Hobbies  
+- Exploring new technologies  
+- Watching movies  
+- Circuit designing  
+
+## 💡 Projects  
+- **Fuel Monitoring System** *(ATmega328, Float Sensor, Arduino, LCD, Digital Fuel Gauge)*  
+- **On-Demand Pet Grooming Vans in India** *(Entrepreneurship Class Project)*  
+- **Fourier Transform for Image Sharpening (MATLAB)*  
+
+## 🛠️ Skills  
+- Embedded Systems (ATmega328, Arduino)  
+- Circuit Design  
+- MATLAB  
+- CATIA  
+- C++  
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](your-github-url)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](your-twitter-url)  
