@@ -17,9 +17,8 @@ I am a passionate Electronics and Telecommunication Engineering student, current
 - Trecking  
 
 ## 💡 Projects  
-- **Fuel Monitoring System** *(ATmega328, Float Sensor, Arduino, LCD, Digital Fuel Gauge)*  
-- **On-Demand Pet Grooming Vans in India** *(Entrepreneurship Class Project)*  
-- **Fourier Transform for Image Sharpening (MATLAB)*
+- **Digital Fuel Guage** *(ATmega328, Float Sensor, Arduino, LCD)*  
+- **Fourier Transform for Image Sharpening (MATLAB)**
 
 ## 🛠️ Skills  
 - Embedded Systems (ATmega328, Arduino)  
