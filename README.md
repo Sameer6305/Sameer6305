@@ -1,4 +1,6 @@
-# ![Sameer6305]([your-image-or-gif-url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F222829&psig=AOvVaw3u_ptMYQ1buUujZglomMA_&ust=1740222763247000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDp9JTR1IsDFQAAAAAdAAAAABAE))
+# Sameer6305  
+
+![GIF Description](https://raw.githubusercontent.com/Sameer6305/Sameer6305/refs/heads/main/GIThub.webp)
 
 ## 👋 About Me  
 I am a passionate Electronics and Telecommunication Engineering student, currently in my 4th semester. I enjoy working on hardware and software projects, with a strong interest in embedded systems and digital signal processing.
