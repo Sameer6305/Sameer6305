@@ -20,12 +20,13 @@ I am a passionate Electronics and Telecommunication Engineering student, current
 - **Digital Fuel Guage** *(ATmega328, Float Sensor, Arduino, LCD)*  
 - **Fourier Transform for Image Sharpening (MATLAB)**
 
-## 🛠️ Skills  
-- Embedded Systems (ATmega328, Arduino)  
-- Circuit Design  
-- MATLAB  
-- CATIA  
-- C++  
+## 🛠️ Skills 
+- MATLAB   
+- C++
+- Python
+- C
+- Java
+- HTML, CSS, Java script
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)  
