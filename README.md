@@ -1,6 +1,6 @@
 # Sameer6305  
 
-![GIF Description](https://raw.githubusercontent.com/Sameer6305/Sameer6305/refs/heads/main/GIThub.webp)
+![GIF Description](https://raw.githubusercontent.com/Sameer6305/Sameer6305/refs/heads/main/GIThub (2).webp)
 
 ## 👋 About Me  
 I am 
