@@ -3,12 +3,12 @@
 ![GIF Description](https://raw.githubusercontent.com/Sameer6305/Sameer6305/refs/heads/main/GIThub%20(2).webp)
 
 ## 👋 About Me  
-I am 
+I am pre final year btech ENTC student at MITAOE working on my skills in Full stack with some interest in AIML 
 
 ## 🎓 Education  
 - **B.Tech in Electronics and Telecommunication Engineering**  
   *[MIT Alandi]*  
-  Semester: 4th  
+  Semester: 5th  
 
 ## 🎯 Hobbies  
 - Exploring new technologies  
@@ -17,12 +17,12 @@ I am
 - Trecking  
 
 ## 💡 Projects  
-- **Digital Fuel Guage** *(ATmega328, Float Sensor, Arduino, LCD)*  
--Hackerzz Lobby
+-**Hackerzz Lobby** A community website that handles work related to Hackathons
+-**Chronic disease detection** Health related project which can predict chances of chronic disease afetr analysing daily activity
 
 ## 🛠️ Skills   
 - Python,C,C++,Java
-- HTML, CSS, Java script
+- HTML, CSS, Java script, react
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)  
