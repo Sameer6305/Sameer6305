@@ -1,6 +1,6 @@
 # Sameer6305  
 
-![Midnight Algorithms: Forging the Future](Sameer/git.image)
+![Midnight Algorithms: Forging the Future](git.image.png)
 
 ## 👋 About Me  
 I am pre final year btech ENTC student at MITAOE working on my skills in Full stack with some interest in AIML 
