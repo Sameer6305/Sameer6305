@@ -1,6 +1,6 @@
 # Sameer6305  
 
-![GIF Description](https://raw.githubusercontent.com/Sameer6305/Sameer6305/refs/heads/main/GIThub%20(2).webp)
+![Midnight Algorithms: Forging the Future](Sameer/git.image)
 
 ## 👋 About Me  
 I am pre final year btech ENTC student at MITAOE working on my skills in Full stack with some interest in AIML 
