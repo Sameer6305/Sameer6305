@@ -11,7 +11,6 @@ I am pre final year btech ENTC student at MITAOE working on my skills in Full st
   Semester: 5th  
 
 ## 🎯 Hobbies  
-- Exploring new technologies  
 - Watching movies  
 - Listening Music
 - Trecking  
