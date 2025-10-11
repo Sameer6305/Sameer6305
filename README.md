@@ -8,12 +8,7 @@ I am pre final year btech ENTC student at MITAOE working on my skills in Full st
 ## 🎓 Education  
 - **B.Tech in Electronics and Telecommunication Engineering**  
   *[MIT Alandi]*  
-  Semester: 5th  
-
-## 🎯 Hobbies  
-- Watching movies  
-- Listening Music
-- Trecking  
+  Semester: 5th   
 
 ## 💡 Projects  
 -**Hackerzz Lobby** A community website that handles work related to Hackathons
