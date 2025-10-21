@@ -6,13 +6,13 @@
 
 ## 🚀 Ambitious College Student | Aspiring Software Developer | Tech Enthusiast
 
-Hello and welcome! I'm a passionate college student from Pune, India, eager to learn, create, and collaborate in the world of technology. My GitHub showcases a mix of academic projects, personal experiments, and open-source contributions.
+Hi, I’m Sameer Kadam, a passionate college student from Pune, India, exploring the world of technology one project at a time. My GitHub is a reflection of my learning journey — from academic projects and personal experiments to open-source contributions. I love turning ideas into code and building things that make a real impact. Currently, I’m diving deep into Web Development, AI/ML, and Full-Stack Engineering, while sharpening my Data Structures & Algorithms skills for placements. I’m always eager to learn new technologies, collaborate on interesting projects, and share knowledge with the community. Feel free to explore my repositories, connect with me, or even collaborate — I’m always up for building something awesome together!
 
 ---
 
 ## 📚 About Me
 
-- 🏫 **Education:** Undergraduate in Computer Science  
+- 🏫 **Education:** Undergraduate in Electronics & TeleCommunication  
 - 🏠 **Location:** Pune, India  
 - 🗓️ **GitHub since:** May 2024  
 - 📧 **Contact:** sskadam6305@gmail.com  
@@ -27,7 +27,7 @@ I'm building a solid foundation in software development and always exploring new
 - **Programming:** Python, Java, JavaScript, C++
 - **Web Development:** HTML, CSS, React.js, Node.js
 - **Databases:** MySQL, MongoDB
-- **Other:** Git & GitHub, VS Code, Linux basics
+- **Other:** Git & GitHub, VS Code.
 
 ---
 
@@ -37,10 +37,8 @@ Here are some highlights from my recent work. For more, explore my public reposi
 
 | Repository | Description | Main Language | Last Updated |
 |------------|-------------|---------------|--------------|
-| Portfolio Website | Personal website built with React | JavaScript | 2025-10-18 |
-| Student Attendance System | Academic project for managing attendance | Python | 2025-09-30 |
-| Chat App | Real-time chat application | Node.js | 2025-09-10 |
-| Data Structures | Library implementing classic algorithms | C++ | 2025-08-20 |
+| Portfolio Website | Personal website built with HTML, CSS | JavaScript | 2025-10-18 |
+| Hackathon Management website | Personal project built using JavaScript (React Framework) | Backend with Python | 2025-010-19 |
 
 *Browse more projects on my [GitHub profile](https://github.com/Sameer6305)!*
 
@@ -48,16 +46,13 @@ Here are some highlights from my recent work. For more, explore my public reposi
 
 ## 🏆 Achievements
 
-- 🏅 Participated in university hackathons and coding contests
-- 📢 Presented research at college tech fest
-- 👥 Collaborated with peers on group projects
+- Participated in university hackathons and coding contests
+- Collaborated with peers on group projects
 
 ---
 
 ## 📈 Recent Activity
 
-- Updated profile on **2025-10-18**
-- Created GitHub account on **2024-05-12**
 - Published new repositories and contributed to open source
 
 ---
