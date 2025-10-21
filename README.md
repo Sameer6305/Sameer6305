@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameer Kadam!
 
-![Profile Image](PASTE-YOUR-IMAGE-URL-HERE)
+![Profile Image](git.image.png)
 
 ---
 
