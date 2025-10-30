@@ -39,7 +39,8 @@ Here are some highlights from my recent work. For more, explore my public reposi
 | Repository | Description | Main Language | Last Updated |
 |------------|-------------|---------------|--------------|
 | Portfolio Website | Personal website built with HTML, CSS | JavaScript | 2025-10-18 |
-| Hackathon Management website | Personal project built using JavaScript (React Framework) | Backend with Python | 2025-010-19 |
+| Hackathon Management website(Hackerzz Lobby) | Personal project built using JavaScript (React Framework) | Backend with Python | 2025-10-19 |
+| Personal review through Wallpaper(AuroraAI) | Personal project built using Typescript | Supabase for storage management | 2025-10-30 |
 
 *Browse more projects on my [GitHub profile](https://github.com/Sameer6305)!*
 
