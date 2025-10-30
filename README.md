@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameer Kadam!
 
-<img src="git.image.png" alt="Profile Banner" width="400" height="200"/>
+<img src="git.image.png" alt="Profile Banner" width="800" height="400"/>
 
 
 ---
