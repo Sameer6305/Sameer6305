@@ -36,11 +36,13 @@ I'm building a solid foundation in software development and always exploring new
 
 Here are some highlights from my recent work. For more, explore my public repositories!
 
-| Repository | Description | Main Language | Last Updated |
-|------------|-------------|---------------|--------------|
-| Portfolio Website | Personal website built with HTML, CSS | JavaScript | 2025-10-18 |
-| Hackathon Management website(Hackerzz Lobby) | Personal project built using JavaScript (React Framework) | Backend with Python | 2025-10-19 |
-| Personal review through Wallpaper(AuroraAI) | Personal project built using Typescript | Supabase for storage management | 2025-10-30 |
+| Repository | Description | Main Language / Stack | Last Updated |
+|-------------|-------------|-----------------------|--------------|
+| [Portfolio Website](https://github.com/yourusername/portfolio-website) | A responsive personal website showcasing my skills, projects, and contact info. | HTML, CSS, JavaScript | Oct 18, 2025 |
+| [Hackathon Management Website (Hackerzz Lobby)](https://github.com/yourusername/hackerzz-lobby) | A platform to manage hackathons with event creation, registration, and team dashboards. | React (JavaScript), Python (Backend) | Oct 19, 2025 |
+| [AuroraAI – Personal Review through Wallpaper](https://github.com/yourusername/auroraai) | AI-powered project that generates daily wallpapers reflecting user moods and activities. | TypeScript, Supabase | Oct 30, 2025 |
+| [Algorithm Visualizer](https://github.com/yourusername/algorithm-visualizer) | An interactive tool to visualize sorting and searching algorithms. | HTML, CSS, JavaScript | Oct 31, 2025 |
+
 
 *Browse more projects on my [GitHub profile](https://github.com/Sameer6305)!*
 
