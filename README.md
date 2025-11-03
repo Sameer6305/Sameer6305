@@ -2,85 +2,97 @@
   <img src="git.image.png" alt="Sameer Kadam" width="830" height="600"/>
 </div>
 
-# Hi, I'm Sameer Kadam
+# Sameer Kadam
 
-**Full Stack Developer | Python & JS Enthusiast | Open Source Advocate**
-
----
-
-## 👨‍💻 About Me
-
-- 📍 Pune, India
-- 🎓 B.E. in Electronics & Telecommunication Engineering
-- 🔭 Currently building full-stack web apps & open to software development internships
-- 🌱 Learning: Advanced React, System Design, Cloud Technologies, and AI/ML
-- 🛠️ Love building impactful software—one project at a time
-- 💬 Ask me about Web Development, DSA, Python, JavaScript
+_Aspiring Software Developer • Final year B.E. (E&TC) • Pune, India_
 
 ---
 
-## 🚀 Featured Projects
-
-- **[Hackerzz Lobby](https://github.com/Sameer6305/hackerzz-lobby)**  
-  _Hackathon management platform: event creation, team registration, dashboards_  
-  **Stack:** React • Python • JavaScript
-
-- **[AuroraAI](https://github.com/Sameer6305/auroraai)**  
-  _AI app generating personalized wallpapers from moods/activities_  
-  **Stack:** TypeScript • Supabase • AI/ML
-
-- **[Portfolio Website](https://github.com/Sameer6305/portfolio-website)**  
-  _Responsive personal site: Projects, skills, and achievements_  
-  **Stack:** HTML • CSS • JavaScript
-
-- **[Algorithm Visualizer](https://github.com/Sameer6305/algorithm-visualizer)**  
-  _Animations for sorting/searching algorithms (learning tool)_  
-  **Stack:** HTML • CSS • JavaScript
-
-[👉 See all my projects](https://github.com/Sameer6305?tab=repositories)
+> 💡 "Driven by curiosity, innovation, and the power of code."
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 Introduction
+
+- 🎓 **Education:** B.E. in Electronics & Telecommunication, [Your College], Pune  
+- ⚡ **Interests:** Full Stack Development, AI/ML, System Design
+- 📬 **Email:** sskadam6305@gmail.com &nbsp; | &nbsp; [LinkedIn](https://linkedin.com/in/sameerkadam)
+- 🤝 **Open To:** Software Engineer Internships | SDE Roles | Collaborative Projects
+
+---
+
+## 💡 Skills
 
 **Languages:**  
-Python &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; Java &nbsp;|&nbsp; C++
+Python | JavaScript | TypeScript | Java | C++
 
-**Frontend:**  
-React &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; TailwindCSS
+**Web Technologies:**  
+React.js | Node.js | Express.js | HTML5 | CSS3 | TailwindCSS
 
-**Backend & Databases:**  
-Node.js &nbsp;|&nbsp; Express.js &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; Supabase
+**Databases:**  
+MongoDB | MySQL | Supabase
 
-**Tools:**  
-Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Postman
+**Tools & Platforms:**  
+Git | GitHub | VS Code | Linux | Postman
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Highlight Projects
+
+**[Hackerzz Lobby](https://github.com/Sameer6305/hackerzz-lobby)**  
+_Complete hackathon management platform with event creation, team collaboration, and dashboards._  
+*React • Python • JavaScript*
+
+**[AuroraAI](https://github.com/Sameer6305/auroraai)**  
+_AI-powered app for generating personalized wallpapers based on mood and activities._  
+*TypeScript • Supabase • AI/ML*
+
+**[Portfolio Website](https://github.com/Sameer6305/portfolio-website)**  
+_Modern, responsive portfolio showcasing my work and technical journey._  
+*HTML • CSS • JavaScript*
+
+**[Algorithm Visualizer](https://github.com/Sameer6305/algorithm-visualizer)**  
+_Educational tool for visualizing sorting/searching algorithms step by step._  
+*HTML • CSS • JavaScript*
+
+[See all my projects →](https://github.com/Sameer6305?tab=repositories)
+
+---
+
+## 📈 Stats Snapshot
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameer6305&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer6305&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
-## 🎯 2024-2025 Goals
+## 🏆 Achievements
 
-- Master full-stack development
-- Build 3+ AI/ML projects
-- Contribute to 10+ open source projects
-- Participate in 5+ hackathons
-- Secure a software development internship
+- 🥇 Top 5 in University Hackathon, 2024
+- 🔥 3x Open Source Contributor (projects merged)
+- 🧩 Team lead in 2+ large collaboration projects
+- 👨‍💻 300+ LeetCode and DSA problems solved
 
 ---
 
-## 🤝 Contact
+## 🎯 Placement-ready Profile
 
-- 📧 Email: sskadam6305@gmail.com
-- [LinkedIn](https://linkedin.com/in/sameerkadam) • [GitHub](https://github.com/Sameer6305) • [Twitter](https://twitter.com/sameerkadam)
+- ✅ Solid foundation in data structures, algorithms, and system design
+- ✅ Able to work across the stack (frontend/backend)
+- ✅ Fast learner, strong problem solver, good communicator
+- ✅ Ready to positively impact your team and deliver results
+
+---
+
+## 📞 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/sameerkadam)
+- [GitHub](https://github.com/Sameer6305)
+- [Twitter](https://twitter.com/sameerkadam)
+- Email: sskadam6305@gmail.com
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by Sameer Kadam • Last updated: November 2024</sub>
+  <sub>Last Updated: November 2024 &nbsp;•&nbsp; Made with ❤️ by Sameer Kadam</sub>
 </p>
