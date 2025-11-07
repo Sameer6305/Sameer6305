@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-I'm a final year B.E. student in Electronics & Telecommunication Engineering from Pune, India, with a strong academic foundation and a passion for Full Stack Development, AI/ML, and problem-solving through technology.
+I'm a pre final year B.E. student in Electronics & Telecommunication Engineering from Pune, India, with a strong academic foundation and a passion for Full Stack Development, AI/ML, and problem-solving through technology.
 
 I've worked on impactful engineering projects, contributed to open source, and have a proven track record in coding competitions and team-based software builds. I thrive on learning new tech and creating real-world solutions through code.
 
@@ -30,16 +30,11 @@ I've worked on impactful engineering projects, contributed to open source, and h
 - Collaborated in remote teams using Git & GitHub for version control and project management
 - Improved project documentation and implemented feature requests for several OSS projects
 
-### Academic Team Projects & Internships
-**2022–2024 | MIT AoE, Pune**
-- Led and delivered team-based software builds for academic and inter-college hackathons
-- Built and deployed full-stack web apps using the MERN stack & modern JavaScript frameworks
-- Designed and implemented ML models and AI-powered features for academic research work
 
 ## 🚀 Highlighted Projects
 
 ### Portfolio Website
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sameer6305/portfolio-website)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://sameer6305.github.io/Digital-Portfolio/)
 
 A modern, responsive personal site highlighting my skills, work, and learning journey.
 
@@ -88,13 +83,6 @@ Interactive tool to visualize sorting and searching algorithms step by step.
 - **Hackathons:** Multiple coding events with finalist ranks
 
 ---
-
-## 🏆 Achievements & Hackathons
-
-- Multiple top ranks at college, inter-college hackathons (2023 & 2024)
-- OSS PRs merged in web dev and AI/ML repositories
-- Consistent contributor to team-based project builds
-
 ---
 
 ## 🛠️ Technical Skills
@@ -136,12 +124,6 @@ Interactive tool to visualize sorting and searching algorithms step by step.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-
-## 📚 Notable Side Projects
-
-- **[QuizWeb](https://github.com/Sameer6305/quiz-web):** Modern quiz platform using MERN stack
-- **[DSA Visualizer](https://github.com/Sameer6305/dsa-visualizer):** Interactive data structures & algorithms visual tool for learners
-- **[TaskMate](https://github.com/Sameer6305/taskmate):** Productivity and task management web app
 
 ---
 
