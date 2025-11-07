@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 <div align="center">
   <img src="git.image.png" alt="Sameer Kadam" width="830" height="600"/>
 </div>
