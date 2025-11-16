@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="git.image.png" alt="Sameer Kadam" width="830" height="600"/>
 </div>
@@ -11,119 +10,106 @@
 
 ## 💫 About Me
 
-I'm a pre final year B.E. student in Electronics & Telecommunication Engineering from Pune, India, with a strong academic foundation and a passion for Full Stack Development, AI/ML, and problem-solving through technology.
+I'm a final year B.E. student in Electronics & Telecommunication Engineering from Pune, India, dedicated to building impactful digital solutions. I'm passionate about Full Stack Development, AI/ML, and solving real-world problems with tech. I have strong experience in web application development, collaborative projects, and open-source contributions.
 
-I've worked on impactful engineering projects, contributed to open source, and have a proven track record in coding competitions and team-based software builds. I thrive on learning new tech and creating real-world solutions through code.
+- 🎓 **Education:** B.E. in Electronics & Telecommunication Engineering, Pune  
+- 🌱 **Interests:** Full Stack Web Development, AI/ML, System Design, Hackathons
+- 💡 **Current Focus:** Advanced React patterns, cloud technologies, meaningful open-source contributions
+- 🏆 **Open To:** Software Engineer Internships | SDE Roles | Team Projects
+
+---
 
 ## 🎯 Current Focus
 
-- Modern web app architectures & scalable cloud solutions
-- AI/ML applications in real-life problems
-- System design and data-intensive applications
-- Sharpening skills through hackathons, open source, and DSA
+- Creating robust full-stack applications  
+- Applying AI/ML for innovative solutions  
+- Sharpening DSA and system design skills  
+- Open source and collaborative tech initiatives
 
-## 💼 Professional Experience
+---
 
-### Open Source Contributor | Various Projects
-**2023–Present | Remote / Pune, India**
-- Contributed to open-source repositories in web and AI/ML domains
-- Collaborated in remote teams using Git & GitHub for version control and project management
-- Improved project documentation and implemented feature requests for several OSS projects
+## 💼 Experience
 
+### Open Source Contributor & Academic Projects
+- Led and contributed to [academic](https://github.com/Sameer6305?tab=repositories) and personal software engineering projects, from concept to deployment  
+- Built multiple full-stack and AI-powered apps using modern tech stack  
+- Collaborated with remote teams, managed version control with Git & GitHub
+
+---
 
 ## 🚀 Highlighted Projects
 
-### Portfolio Website
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://sameer6305.github.io/Digital-Portfolio/)
+### [CodeOrbit](https://github.com/Sameer6305/codeorbit)
+A collaborative coding platform designed to facilitate team-based development and real-time project management.  
+**Tech:** React, Node.js, Express.js, MongoDB, Socket.io
 
-A modern, responsive personal site highlighting my skills, work, and learning journey.
+### [Hackerzz Lobby](https://github.com/Sameer6305/hackerzz-lobby)
+Platform for hackathon management, including event creation, team registration, and dynamic dashboards.  
+**Tech:** React, Python, JavaScript
 
-- Showcases personal, academic, and open source projects
-- Built with clean UI/UX for recruiters and collaborators
+### [AuroraAI](https://github.com/Sameer6305/auroraai)
+AI-driven app that generates personalized daily wallpapers based on user moods and activities.  
+**Tech:** TypeScript, Supabase, AI/ML
 
-**Tech Stack:** HTML, CSS, JavaScript
+### [Portfolio Website](https://github.com/Sameer6305/portfolio-website)
+Modern, responsive site to showcase my journey, skills, and projects.  
+**Tech:** HTML, CSS, JavaScript
 
----
+### [Algorithm Visualizer](https://github.com/Sameer6305/algorithm-visualizer)
+Tool for visualizing sorting and searching algorithms step by step—great for education.  
+**Tech:** HTML, CSS, JavaScript
 
-### Hackerzz Lobby - Hackathon Management Platform
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sameer6305/hackerzz-lobby)
+### [QuizWeb](https://github.com/Sameer6305/quiz-web)
+Web application for interactive quizzes and practice sets, built with the MERN stack.
 
-Comprehensive platform for managing tech events and hackathons with event creation, registration, dashboards.
-
-**Tech Stack:** React, Python, JavaScript
-
----
-
-### AuroraAI
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sameer6305/auroraai)
-
-AI-powered app generating personalized daily wallpapers based on user moods, activities, and preferences.
-
-**Tech Stack:** TypeScript, Supabase, AI/ML
-
----
-
-### Algorithm Visualizer
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat&logo=github)](https://github.com/Sameer6305/algorithm-visualizer)
-
-Interactive tool to visualize sorting and searching algorithms step by step.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
+### [DSA Visualizer](https://github.com/Sameer6305/dsa-visualizer)
+Interactive visualizations for key data structures and algorithms.
 
 [See all my projects →](https://github.com/Sameer6305?tab=repositories)
 
 ---
 
-## 📊 Competitive Programming
-
-- **Profiles:** [LeetCode](https://leetcode.com/Sameer6305/) • [CodeChef](https://www.codechef.com/users/Sameer6305)
-- **Solved:** 300+ programming problems across platforms  
-- **Hackathons:** Multiple coding events with finalist ranks
-
----
----
-
 ## 🛠️ Technical Skills
 
-### Programming & Web Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=mysql&logoColor=white)
+**Languages:**  
+Python | JavaScript | TypeScript | Java | C++
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-%23323330.svg?style=flat&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+**Frontend:**  
+React.js | HTML5 | CSS3 | TailwindCSS
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+**Backend & Databases:**  
+Node.js | Express.js | MongoDB | MySQL | Supabase
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Tools & Platforms:**  
+Git | GitHub | VS Code | Linux | Postman | Docker | AWS (basics)
+
+**ML & Data Tools:**  
+Pandas | NumPy | scikit-learn | Jupyter | OpenCV
 
 ---
+
+## 📊 Coding & GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameer6305&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer6305&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+---
+
+## 🏆 Achievements
+
+- Finalist in multiple college hackathons (2023, 2024)
+- OSS PRs merged in web & ML projects
+- 300+ problems solved in LeetCode/other DSA platforms
+- Led and delivered several multidisciplinary team projects
+
+---
+
+## 🎯 Career Objectives
+
+- Deepen expertise in scalable web systems & applied AI
+- Build tools that create real-world impact
+- Collaborate and grow with high-performing software teams
+- Contribute to open source, technical blogs, and the dev community
 
 ---
 
@@ -131,14 +117,12 @@ Interactive tool to visualize sorting and searching algorithms step by step.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerkadam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sskadam6305@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://github.com/Sameer6305/portfolio-website)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Sameer6305)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/Sameer6305)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Sameer6305/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/Sameer6305)
 
 ---
 
 <p align="center">
   <sub>Last Updated: November 2024 • Made with ❤️ by Sameer Kadam</sub>
 </p>
-````
