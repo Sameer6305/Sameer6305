@@ -8,112 +8,96 @@
   <img src="https://profile-counter.glitch.me/{Sameer6305}/count.svg" alt="Visitor Count" width="180" height="24" />
 </p>
 
+---
+
 ## 💫 About Me
 
-I'm a final year B.E. student in Electronics & Telecommunication Engineering from Pune, India, dedicated to building impactful digital solutions. I'm passionate about Full Stack Development, AI/ML, and solving real-world problems with tech. I have strong experience in web application development, collaborative projects, and open-source contributions.
+Final year B.E. in Electronics & Telecommunication Engineering  
+Pune, India
 
-- 🎓 **Education:** B.E. in Electronics & Telecommunication Engineering, Pune  
-- 🌱 **Interests:** Full Stack Web Development, AI/ML, System Design, Hackathons
-- 💡 **Current Focus:** Advanced React patterns, cloud technologies, meaningful open-source contributions
-- 🏆 **Open To:** Software Engineer Internships | SDE Roles | Team Projects
-
----
-
-## 🎯 Current Focus
-
-- Creating robust full-stack applications  
-- Applying AI/ML for innovative solutions  
-- Sharpening DSA and system design skills  
-- Open source and collaborative tech initiatives
+- 💼 Passionate about **Full Stack Web Development** & **AI/ML**
+- 📚 Strong DSA/problem solving skills (300+ coding problems solved)
+- 🏆 Open to Software Development Internships, SDE Roles, and collaborative projects
+- 👨‍💻 Love building and collaborating on impactful software
 
 ---
 
-## 💼 Experience
+## 🚀 Projects
 
-### Open Source Contributor & Academic Projects
-- Led and contributed to [academic](https://github.com/Sameer6305?tab=repositories) and personal software engineering projects, from concept to deployment  
-- Built multiple full-stack and AI-powered apps using modern tech stack  
-- Collaborated with remote teams, managed version control with Git & GitHub
+Below are some of my main repositories.  
+**See all** 👉 [Sameer6305 · GitHub](https://github.com/Sameer6305?tab=repositories)
 
----
+### Featured Projects
 
-## 🚀 Highlighted Projects
+- **[CodeOrbit](https://github.com/Sameer6305/codeorbit)**
+  - _A collaborative coding platform designed for real-time team development and project management._
+  - Tech: React, Node.js, Express.js, MongoDB, Socket.io
 
-### [CodeOrbit](https://github.com/Sameer6305/codeorbit)
-A collaborative coding platform designed to facilitate team-based development and real-time project management.  
-**Tech:** React, Node.js, Express.js, MongoDB, Socket.io
+- **[Hackerzz Lobby](https://github.com/Sameer6305/hackerzz-lobby)**
+  - _Hackathon management platform with team registration, event creation, and dashboards._
+  - Tech: React, Python, JavaScript
 
-### [Hackerzz Lobby](https://github.com/Sameer6305/hackerzz-lobby)
-Platform for hackathon management, including event creation, team registration, and dynamic dashboards.  
-**Tech:** React, Python, JavaScript
+- **[AuroraAI](https://github.com/Sameer6305/auroraai)**
+  - _AI-powered app generating personalized daily wallpapers based on moods & activities._
+  - Tech: TypeScript, Supabase, AI/ML
 
-### [AuroraAI](https://github.com/Sameer6305/auroraai)
-AI-driven app that generates personalized daily wallpapers based on user moods and activities.  
-**Tech:** TypeScript, Supabase, AI/ML
+- **[Portfolio Website](https://github.com/Sameer6305/portfolio-website)**
+  - _Personal portfolio to showcase my skills, works, and achievements._
+  - Tech: HTML, CSS, JavaScript
 
-### [Portfolio Website](https://github.com/Sameer6305/portfolio-website)
-Modern, responsive site to showcase my journey, skills, and projects.  
-**Tech:** HTML, CSS, JavaScript
+- **[Algorithm Visualizer](https://github.com/Sameer6305/algorithm-visualizer)**
+  - _Interactive tool to visualize sorting/searching algorithms for learning._
+  - Tech: HTML, CSS, JavaScript
 
-### [Algorithm Visualizer](https://github.com/Sameer6305/algorithm-visualizer)
-Tool for visualizing sorting and searching algorithms step by step—great for education.  
-**Tech:** HTML, CSS, JavaScript
+- **[QuizWeb](https://github.com/Sameer6305/quiz-web)**
+  - _Web app for taking and managing interactive quizzes using MERN stack._
+  - Tech: MongoDB, Express, React, Node.js
 
-### [QuizWeb](https://github.com/Sameer6305/quiz-web)
-Web application for interactive quizzes and practice sets, built with the MERN stack.
-
-### [DSA Visualizer](https://github.com/Sameer6305/dsa-visualizer)
-Interactive visualizations for key data structures and algorithms.
-
-[See all my projects →](https://github.com/Sameer6305?tab=repositories)
+- **[DSA Visualizer](https://github.com/Sameer6305/dsa-visualizer)**
+  - _Visualize and understand key data structures and algorithms interactively._
+  - Tech: JavaScript, D3.js (update if required)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 **Languages:**  
 Python | JavaScript | TypeScript | Java | C++
 
 **Frontend:**  
-React.js | HTML5 | CSS3 | TailwindCSS
+React | HTML5 | CSS3 | TailwindCSS
 
 **Backend & Databases:**  
 Node.js | Express.js | MongoDB | MySQL | Supabase
 
-**Tools & Platforms:**  
-Git | GitHub | VS Code | Linux | Postman | Docker | AWS (basics)
+**Dev & Tools:**  
+Git | GitHub | VS Code | Linux | Postman | Docker | Basic AWS
 
-**ML & Data Tools:**  
+**ML/Data Science:**  
 Pandas | NumPy | scikit-learn | Jupyter | OpenCV
 
 ---
 
-## 📊 Coding & GitHub Stats
+## 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameer6305&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer6305&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Goals
 
-- Finalist in multiple college hackathons (2023, 2024)
-- OSS PRs merged in web & ML projects
-- 300+ problems solved in LeetCode/other DSA platforms
-- Led and delivered several multidisciplinary team projects
-
----
-
-## 🎯 Career Objectives
-
-- Deepen expertise in scalable web systems & applied AI
-- Build tools that create real-world impact
-- Collaborate and grow with high-performing software teams
-- Contribute to open source, technical blogs, and the dev community
+- Finalist in college hackathons (2023, 2024)
+- Open source & ML project contributor
+- Several team project leaderships delivered
+- **To achieve next:**  
+  - Build scalable web systems & useful AI tools  
+  - Write technical blogs & share knowledge  
+  - Secure an SDE role and push community impact
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerkadam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sskadam6305@gmail.com)
