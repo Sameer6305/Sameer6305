@@ -1,117 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:119DA4,100:0077B5&height=200&section=header&text=Sameer%20Kadam&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img width="100%" src="git.image.png" alt="Sameer Kadam"/>
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=119DA4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sameer+Kadam;Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Tomorrow's+Tech+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=119DA4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sameer+Kadam;Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver+%26+Builder" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="mailto:sskadam6305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/sameerkadam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/Sameer6305/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/Sameer6305">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://github.com/Sameer6305">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:sskadam6305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sameerkadam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/Sameer6305/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/Sameer6305"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://github.com/Sameer6305"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sameer6305&label=Profile%20Views&color=119DA4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Sameer6305?label=Followers&style=for-the-badge&color=119DA4" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Sameer6305&label=Profile%20Views&color=119DA4&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Sameer6305?label=Followers&style=for-the-badge&color=119DA4&logo=github"/>
 </p>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 👨‍💻 About Me
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-const sameer = {
-    location: "Pune, India 📍",
-    education: "B.E. Electronics & Telecom (Final Year) 🎓",
-    role: "Full Stack Developer & AI/ML Engineer",
-    currentFocus: [
-        "TypeScript", 
-        "React Ecosystem", 
-        "AWS Cloud", 
-        "System Design"
-    ],
-    workingOn: "CodeOrbit - Real-time Collaborative Coding Platform 🚀",
-    communities: [
-        "Open Source Contributor 👨‍💻", 
-        "Hackathon Finalist 🏆"
-    ],
-    lifePhilosophy: "Build. Learn. Ship. Repeat. 🔁",
-    askMeAbout: ["Web Dev", "AI/ML", "DSA", "Cloud"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-
-console.log(sameer);
-```
+- 🎓 **B.E. Electronics & Telecom** (Final Year) | Pune, India
+- 💼 **Full Stack Developer & AI/ML Engineer**
+- 🚀 Currently building **CodeOrbit** - Real-time Collaborative Platform
+- 🌱 Learning **TypeScript, AWS, System Design, Microservices**
+- 👨‍💻 Ask me about **Web Dev, AI/ML, DSA, Cloud**
+- 🏆 **Hackathon Finalist** & **Open Source Contributor**
+- ⚡ **Fun fact:** I debug with console.log() and I'm proud of it! 😄
 
 <br clear="right"/>
 
-<div align="center">
-  
-### 💡 **What Drives Me**
-  
-> *"Turning innovative ideas into scalable, real-world solutions through clean code, cutting-edge tech, and collaborative teamwork."*
-
-</div>
+> *"Building scalable solutions that make a difference, one commit at a time."*
 
 ---
 
-## 🔥 Current Focus
+## 🚀 Current Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 Active Projects
+### 🎯 What I'm Building
 
-```yaml
-project: CodeOrbit
-status: In Development
-features:
-  - Real-time collaboration
-  - Live code sharing
-  - Team workspaces
-  - Socket.io integration
-  - AI code suggestions
-technologies:
-  - React & Node.js
-  - MongoDB & Express
-  - Socket.io & WebRTC
-```
+**CodeOrbit** - Real-time Collaborative Coding Platform
+
+🔹 Live code sharing & collaboration  
+🔹 Team workspace management  
+🔹 Real-time chat with Socket.io  
+🔹 AI-powered code suggestions  
+
+**Tech:** React • Node.js • MongoDB • Socket.io • Express
+
+**Status:** 🚧 In Active Development (75% Complete)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📚 Learning Journey
+### 📚 What I'm Learning
 
-```yaml
-current_learning:
-  - Advanced TypeScript patterns
-  - AWS cloud architecture
-  - System design principles
-  - Microservices architecture
-  
-goals_2024:
-  - Master AWS certifications
-  - Contribute to major OSS
-  - Build production apps
-  - Win hackathons 🏆
-```
+🔹 **TypeScript** - Advanced patterns & best practices  
+🔹 **AWS** - Cloud architecture & deployment  
+🔹 **System Design** - Scalable architecture patterns  
+🔹 **Microservices** - Docker & Kubernetes  
+
+### 🎯 2025 Goals
+
+✅ AWS Solutions Architect Certification  
+✅ 50+ Open Source Contributions  
+✅ Deploy 2 Production SaaS Apps  
+✅ Master GraphQL & Next.js  
 
 </td>
 </tr>
@@ -123,39 +85,113 @@ goals_2024:
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|:-----------|:---------------|:--------------|:---------|
-| **🌐 CodeOrbit** | Real-time collaborative coding platform with live chat, team management, and project tracking | `React` `Node.js` `Express` `MongoDB` `Socket.io` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/Sameer6305/codeorbit) |
-| **🎪 Hackerzz Lobby** | Complete event management system for hackathons with registration, team formation, and dashboards | `React` `Python` `JavaScript` | [![View](https://img.shields.io/badge/View-0077B5?style=flat&logo=github)](https://github.com/Sameer6305) |
-| **🎨 AuroraAI** | AI-powered personalized wallpaper generator based on mood, time, and user activity | `TypeScript` `Supabase` `AI/ML` | [![View](https://img.shields.io/badge/View-0077B5?style=flat&logo=github)](https://github.com/Sameer6305) |
-| **📊 Algorithm Visualizer** | Interactive visualization tool for sorting and searching algorithms with step-by-step execution | `JavaScript` `Canvas API` `CSS3` | [![Demo](https://img.shields.io/badge/Demo-119DA4?style=flat&logo=github)](https://github.com/Sameer6305) |
-| **💻 DSA Visualizer** | Visual representation of complex data structures with real-time animations | `JavaScript` `D3.js` `SVG` | [![View](https://img.shields.io/badge/View-0077B5?style=flat&logo=github)](https://github.com/Sameer6305) |
-| **🌟 Portfolio Website** | Personal portfolio showcasing projects, skills, and professional journey | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/Live-119DA4?style=flat&logo=google-chrome)](https://github.com/Sameer6305) |
+<table>
+<tr>
+<td width="50%">
 
-</div>
+### 🌐 [CodeOrbit](https://github.com/Sameer6305/codeorbit)
 
-<div align="center">
-  <a href="https://github.com/Sameer6305?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
-  </a>
+**Real-time Collaborative Coding Platform**
+
+A cutting-edge platform enabling developers to code together in real-time with live chat, team workspaces, and AI-powered suggestions.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • Socket.io
+
+**Key Features:**
+- 🔴 Real-time collaboration
+- 💬 Live chat integration
+- 🤖 AI code assistance
+- 👥 Team management
+
+[![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305/codeorbit)
+
+</td>
+<td width="50%">
+
+### 🎨 [AuroraAI](https://github.com/Sameer6305)
+
+**AI-Powered Wallpaper Generator**
+
+Personalized wallpaper generation based on mood, time, and user activity using advanced AI algorithms.
+
+**Tech Stack:** TypeScript • Supabase • AI/ML APIs
+
+**Key Features:**
+- 🎨 Mood-based generation
+- ⏰ Time-adaptive themes
+- 🤖 ML personalization
+- 📱 Cross-platform support
+
+[![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎪 [Hackerzz Lobby](https://github.com/Sameer6305)
+
+**Event Management Platform**
+
+Complete hackathon management system with registration, team formation, and real-time dashboards.
+
+**Tech Stack:** React • Python • JavaScript
+
+**Key Features:**
+- 📝 Event registration
+- 👥 Team formation
+- 📊 Admin dashboards
+- 🏆 Leaderboards
+
+[![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
+
+</td>
+<td width="50%">
+
+### 📊 [Algorithm Visualizer](https://github.com/Sameer6305)
+
+**Interactive DSA Learning Tool**
+
+Step-by-step visualization of sorting and searching algorithms with interactive controls.
+
+**Tech Stack:** JavaScript • Canvas API • CSS3
+
+**Key Features:**
+- 🔄 Live algorithm execution
+- 🎯 Interactive controls
+- 📈 Performance metrics
+- 🎨 Beautiful animations
+
+[![View Demo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Sameer6305?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-119DA4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -164,7 +200,7 @@ goals_2024:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Database
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -173,7 +209,7 @@ goals_2024:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### ☁️ DevOps & Cloud
+**DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -181,202 +217,141 @@ goals_2024:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI/ML & Data Science
+**AI/ML & Data Science**
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer6305&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=119DA4&icon_color=119DA4&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sameer6305&theme=react&hide_border=true&background=0D1117&ring=119DA4&fire=119DA4&currStreakLabel=119DA4&border_radius=10" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer6305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sameer6305&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer6305&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=119DA4&text_color=C9D1D9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer6305&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Sameer6305&theme=tokyonight&no-frame=true&column=4&margin-w=15" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer6305&custom_title=Contribution%20Graph&bg_color=0D1117&color=119DA4&line=119DA4&point=FFFFFF&area_color=119DA4&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer6305&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area_color=bf91f3&area=true&hide_border=true" />
 </p>
+
 
 ---
 
-## 🏆 Achievements & Trophies
+## 💡 Development Philosophy
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sameer6305&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
-<div align="center">
-
-| 🎯 Achievement | 📝 Description |
-|:--------------|:---------------|
-| 🥈 **Hackathon Finalist** | Built innovative solutions under pressure and time constraints |
-| 🌟 **Open Source Contributor** | Active contributor to community projects and repositories |
-| 💻 **500+ Problems Solved** | Consistent problem-solver on LeetCode & CodeChef |
-| 🎓 **Continuous Learner** | Always exploring cutting-edge technologies and frameworks |
-| 🚀 **Project Leader** | Led multiple team projects with successful deployment |
-
-</div>
-
----
-
-## 💭 Development Philosophy
-
-<div align="center">
-
-### 🔄 **The Developer's Loop**
-
-</div>
-
-```javascript
-while (alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-
-// Bonus: Coffee-driven development ☕
-function developSoftware() {
-    while (coffee.available()) {
-        code();
-        debug();
-        if (works) {
-            celebrate();
-        }
-        coffee.refill();
-    }
-}
-```
-
-<br/>
-
-<div align="center">
-
-| 🎯 **Quality Over Quantity** | 🤝 **Collaboration First** | 🚀 **Ship Fast, Learn Faster** |
-|:----------------------------:|:---------------------------:|:-------------------------------:|
-| Writing clean, maintainable<br/>code that scales | Building together is<br/>better than building alone | Iterate quickly,<br/>improve continuously |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```diff
-+ Write code that others (and future you) will thank you for
-+ Embrace feedback as a gift for continuous improvement
-+ Focus on solving real problems, not just writing code
-+ Test early, test often, deploy with confidence
-```
-
-</div>
-
----
-
-## 🎯 2025 Goals & Roadmap
-
-<div align="center">
-
-```mermaid
-gantt
-    title My 2025 Development Journey
-    dateFormat  YYYY-MM-DD
-    section Projects
-    Deploy CodeOrbit           :2025-01-01, 90d
-    Build AI SaaS Product      :2025-04-01, 120d
-    section Learning
-    AWS Certification          :2025-01-01, 60d
-    Advanced System Design     :2025-03-01, 90d
-    section Community
-    OSS Contributions          :2025-01-01, 365d
-    Technical Blog Posts       :2025-02-01, 300d
-```
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="33%" align="center">
-
-### 🚀 **Projects**
-- [ ] Deploy CodeOrbit to production
-- [ ] Reach 1000+ active users
-- [ ] Launch 2 SaaS products
-- [ ] Build AI-powered tools
-
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120px"/>
+<br><br>
+<strong>🎯 Quality Over Quantity</strong>
+<br><br>
+<sub>Writing clean, maintainable code that scales and stands the test of time</sub>
 </td>
-<td width="33%" align="center">
-
-### 📚 **Learning**
-- [ ] AWS Solutions Architect
-- [ ] Master System Design
-- [ ] Advanced TypeScript
-- [ ] Cloud Native Development
-
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216644507-4f376954-3e0f-4f3b-9c7d-f2fc11f0b6e6.gif" width="120px"/>
+<br><br>
+<strong>🤝 Collaboration First</strong>
+<br><br>
+<sub>Great products are built by great teams working together</sub>
 </td>
-<td width="33%" align="center">
-
-### 🤝 **Community**
-- [ ] 50+ OSS contributions
-- [ ] 20+ technical blogs
-- [ ] Win major hackathons
-- [ ] Mentor 10+ developers
-
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120px"/>
+<br><br>
+<strong>🚀 Ship Fast, Learn Faster</strong>
+<br><br>
+<sub>Iterate quickly, gather feedback, and improve continuously</sub>
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <em>"Code is poetry written in logic. Every line should tell a story, solve a problem, or make someone's life easier."</em>
+</p>
+
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<br/><br/>
+<br><br>
 
-### 💬 **I'm always excited to collaborate on innovative projects!**
+### I'm always excited to collaborate on innovative projects! 🚀
 
-<br/>
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<br><strong>Full-time</strong>
+<br><sub>Opportunities</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" />
+<br><strong>Freelance</strong>
+<br><sub>Projects</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" />
+<br><strong>Open Source</strong>
+<br><sub>Contributions</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
+<br><strong>Startups</strong>
+<br><sub>Innovations</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
+<br><strong>Mentorship</strong>
+<br><sub>Knowledge Sharing</sub>
+</td>
+</tr>
+</table>
 
-**Open to:**
+<br>
 
-🔹 Full-time opportunities  
-🔹 Freelance projects  
-🔹 Open source collaborations  
-🔹 Innovative startup ideas  
-🔹 Knowledge sharing & mentorship  
+### 📫 Reach Out to Me
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerkadam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sskadam6305@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sameer6305/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Sameer6305)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerkadam)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sskadam6305@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Sameer6305/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Follow-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Sameer6305)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-119DA4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Sameer6305)
+<br>
 
-<br/>
+### 📊 Coding Stats
 
-### 💡 **"Got an idea? Let's turn it into reality!"**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer6305&theme=tokyonight" width="90%" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer6305&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer6305&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sameer6305&theme=tokyonight" width="32%" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+### 💡 *"Got an idea? Let's turn it into reality together!"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -384,7 +359,7 @@ gantt
 
 <div align="center">
   
-### 🐍 **Contribution Snake**
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sameer6305/Sameer6305/output/github-contribution-grid-snake-dark.svg">
@@ -397,17 +372,35 @@ gantt
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:119DA4,100:0077B5&height=120&section=footer" width="100%"/>
-</div>
 
-<div align="center">
-  
-**⭐ From [Sameer6305](https://github.com/Sameer6305) | Last Updated: November 2024**
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-*If you find my work interesting, feel free to star my repositories!*
+### ⭐ Show Some Love!
 
-<br/>
+**If you find my work interesting, feel free to star my repositories!**
 
-<img src="https://komarev.com/ghpvc/?username=Sameer6305&label=Thanks%20for%20visiting&color=119DA4&style=flat-square" alt="visitors"/>
+<br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=Sameer6305&label=Profile%20Views&color=119DA4&style=for-the-badge"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/Sameer6305?label=Followers&style=for-the-badge&color=119DA4&logo=github"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/Sameer6305?label=Total%20Stars&style=for-the-badge&color=119DA4&logo=github"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=119DA4&height=100&section=footer" width="100%"/>
+
+**Made with ❤️ by [Sameer Kadam](https://github.com/Sameer6305)**
+
+*Last Updated: November 2025*
 
 </div>
