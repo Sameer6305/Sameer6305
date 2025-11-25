@@ -32,6 +32,8 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```typescript
 const sameer = {
     education: "B.E. Electronics & Telecom (Final Year) | Pune, India",
@@ -43,6 +45,10 @@ const sameer = {
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -186,6 +192,8 @@ const sameer = {
 
 <div align="center">
 
+### 🔄 **The Developer Loop**
+
 ```javascript
 while (alive) {
     eat();
@@ -197,28 +205,27 @@ while (alive) {
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<br/>
 
-### 🎯 **Quality Over Quantity**
-Writing clean, maintainable code that scales
+<div align="center">
 
-</td>
-<td align="center" width="33%">
+| 🎯 **Quality Over Quantity** | 🤝 **Collaboration First** | 🚀 **Ship Fast, Learn Faster** |
+|:---:|:---:|:---:|
+| Writing clean, maintainable<br/>code that scales | Building together is<br/>better than building alone | Iterate quickly,<br/>improve continuously |
 
-### 🤝 **Collaboration First**
-Building together is better than building alone
+</div>
 
-</td>
-<td align="center" width="33%">
+<br/>
 
-### 🚀 **Ship Fast, Learn Faster**
-Iterate quickly, improve continuously
+<div align="center">
 
-</td>
-</tr>
-</table>
+```diff
++ Write code that others (and future you) will thank you for
++ Embrace feedback and continuous improvement
++ Focus on solving real problems, not just writing code
+```
+
+</div>
 
 ---
 
