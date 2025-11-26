@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="git.image.png" alt="Sameer Kadam"/>
+  <img width="100%" src="GIF_Creation_for_Profile-ezgif.com-crop.gif" alt="Sameer Kadam"/>
 </div>
 
 <h1 align="center">
