@@ -26,12 +26,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🎓 **B.E. Electronics & Telecom** (Final Year) | Pune, India
-- 💼 **Full Stack Developer & AI/ML Engineer**
-- 🚀 Currently building **CodeOrbit** - Real-time Collaborative Platform
-- 🌱 Learning **TypeScript, AWS, System Design, Microservices**
-- 👨‍💻 Ask me about **Web Dev, AI/ML, DSA, Cloud**
-- 🏆 **Hackathon Finalist** & **Open Source Contributor**
-- ⚡ **Fun fact:** I debug with console.log() and I'm proud of it! 😄
+- 💼 **Data Engineer & Software Developer Enthusiast**
+- 🚀 Currently building **Smart Price Analytics System**
+- 🌱 Learning **SQL, Spark, Delta Lake, SnowFlake, AWS, System Design, Microservices**
+- 👨‍💻 Ask me about **Data Pipelines, AI/ML, DSA, Cloud**
+- 🏆 **Open Source Contributor**
 
 <br clear="right"/>
 
@@ -43,35 +42,24 @@
 
 <table>
 <tr>
-<td width="50%">
 
-### 🎯 What I'm Building
-
-**CodeOrbit** - Real-time Collaborative Coding Platform
-
-🔹 Live code sharing & collaboration  
-🔹 Team workspace management  
-🔹 Real-time chat with Socket.io  
-🔹 AI-powered code suggestions  
-
-**Tech:** React • Node.js • MongoDB • Socket.io • Express
-
-**Status:** 🚧 In Active Development (75% Complete)
-
-</td>
 <td width="50%">
 
 ### 📚 What I'm Learning
 
-🔹 **TypeScript** - Advanced patterns & best practices  
+🔹 **SQL** - SQL (Structured Query Language) is a language used to store, retrieve, and manage data in databases. 
+🔹 **Apache Spark** - A fast data processing engine for large-scale data analytics.
+🔹 **Delta Lake** - A storage layer that adds reliability (ACID transactions) to data lakes.
+🔹 **Snowflake** - A cloud data warehouse for storing and analyzing data at scale.
 🔹 **AWS** - Cloud architecture & deployment  
 🔹 **System Design** - Scalable architecture patterns  
 🔹 **Microservices** - Docker & Kubernetes  
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 
 ✅ AWS Solutions Architect Certification  
-✅ 50+ Open Source Contributions  
+✅ 50+ Open Source Contributions 
+✅ Acquire real-world experience through internships to prepare for full-time roles.
 ✅ Deploy 2 Production SaaS Apps  
 ✅ Master GraphQL & Next.js  
 
