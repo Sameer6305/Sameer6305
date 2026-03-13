@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=119DA4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sameer+Kadam;Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=119DA4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sameer+Kadam;Data+Engineer;AI%2FML+Engineer;I+make+data+flow.+Then+I+make+it+think." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,16 +25,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🎓 **B.E. Electronics & Telecommunication** (Final Year) | Pune, India
-- 💼 **Data Engineer & Software Developer Enthusiast**
-- 🚀 Currently building **Smart Price Analytics System**
-- 🌱 Learning **SQL, Spark, Delta Lake, SnowFlake, AWS, System Design, Microservices**
-- 👨‍💻 Ask me about **Data Pipelines, AI/ML, DSA, Cloud**
-- 🏆 **Open Source Contributor**
+- 🎓 **B.Tech Electronics & Telecommunication** (3rd Year) | MIT Academy of Engineering, Pune
+- 💼 **Data Engineer & AI/ML Engineer**
+- 🚀 Currently building **Real-Time Subscription Enforcement Platform** (Kafka → Spark → Delta Lake)
+- 🌱 Deepening expertise in **Apache Kafka, Spark, Delta Lake, Snowflake, dbt, Medallion Architecture**
+- 👨‍💻 Ask me about **Data Pipelines, ETL/ELT, Inference Pipelines, Explainable AI, DSA**
+- 🏆 **Open Source Contributor** — semantica (Explainable AI framework)
 
 <br clear="right"/>
 
-> *"Building scalable solutions that make a difference, one commit at a time."*
+> *"I make data flow. Then I make it think."*
 
 ---
 
@@ -47,21 +47,21 @@
 
 ### 📚 What I'm Learning
 
-🔹 **SQL** - SQL (Structured Query Language) is a language used to store, retrieve, and manage data in databases. 
-🔹 **Apache Spark** - A fast data processing engine for large-scale data analytics.
-🔹 **Delta Lake** - A storage layer that adds reliability (ACID transactions) to data lakes.
-🔹 **Snowflake** - A cloud data warehouse for storing and analyzing data at scale.
-🔹 **AWS** - Cloud architecture & deployment  
-🔹 **System Design** - Scalable architecture patterns  
-🔹 **Microservices** - Docker & Kubernetes  
+🔹 **Apache Kafka** - Real-time event streaming & distributed messaging  
+🔹 **Apache Spark** - Large-scale batch & streaming data processing  
+🔹 **Delta Lake** - ACID-compliant lakehouse storage layer  
+🔹 **dbt** - Data transformation & analytics engineering  
+🔹 **Snowflake / BigQuery** - Cloud data warehousing  
+🔹 **Medallion Architecture** - Bronze / Silver / Gold data layers  
+🔹 **RAG & LangChain** - Retrieval-augmented AI pipelines  
 
 ### 🎯 2026 Goals
 
-✅ AWS Solutions Architect Certification  
-✅ 50+ Open Source Contributions 
-✅ Acquire real-world experience through internships to prepare for full-time roles.
-✅ Deploy 2 Production SaaS Apps  
-✅ Master GraphQL & Next.js  
+✅ AWS Certified Cloud Practitioner  
+✅ Ship 2 production-grade data pipeline projects  
+✅ Contribute to 5+ open-source data/AI repositories  
+✅ Land a Data Engineer / AI Engineer internship  
+✅ Master dbt + Snowflake stack  
 
 </td>
 </tr>
@@ -77,38 +77,38 @@
 <tr>
 <td width="50%">
 
-### 🌐 [CodeOrbit](https://github.com/Sameer6305/codeorbit)
+### ⚡ [Real-Time Subscription Platform](https://github.com/Sameer6305)
 
-**Real-time Collaborative Coding Platform**
+**Kafka → Spark Structured Streaming → Delta Lake**
 
-A cutting-edge platform enabling developers to code together in real-time with live chat, team workspaces, and AI-powered suggestions.
+Real-time event-driven data pipeline for subscription enforcement and usage analytics using Medallion architecture.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Socket.io
+**Tech Stack:** Kafka • Spark Structured Streaming • Delta Lake • Redis • Python
 
 **Key Features:**
-- 🔴 Real-time collaboration
-- 💬 Live chat integration
-- 🤖 AI code assistance
-- 👥 Team management
+- 🔴 Bronze / Silver / Gold Medallion layers
+- ⚡ Redis-based real-time rate limiting
+- 📊 Data quality validation & observability
+- 🔁 Automated failure recovery & reprocessing
 
-[![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305/codeorbit)
+[![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
 
 </td>
 <td width="50%">
 
-### 🎨 [AuroraAI](https://github.com/Sameer6305)
+### 🏙️ [CityAtlas](https://github.com/Sameer6305)
 
-**AI-Powered Wallpaper Generator**
+**Lambda Architecture City Analytics Engine**
 
-Personalized wallpaper generation based on mood, time, and user activity using advanced AI algorithms.
+City intelligence platform combining Kafka streaming and batch ETL with a full OLTP/OLAP split and explainable AI scoring.
 
-**Tech Stack:** TypeScript • Supabase • AI/ML APIs
+**Tech Stack:** Java • Spring Boot • Kafka • PostgreSQL • ETL
 
 **Key Features:**
-- 🎨 Mood-based generation
-- ⏰ Time-adaptive themes
-- 🤖 ML personalization
-- 📱 Cross-platform support
+- 🌊 Kafka stream + batch ETL (Lambda architecture)
+- 🗄️ Star schema OLAP & OLTP separation
+- 🤖 Rule-based AI scoring with reasoning chains
+- 📈 Micro-batching & data quality checks
 
 [![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
 
@@ -117,40 +117,40 @@ Personalized wallpaper generation based on mood, time, and user activity using a
 <tr>
 <td width="50%">
 
-### 🎪 [Hackerzz Lobby](https://github.com/Sameer6305)
+### 🎨 [AuroraAI](https://github.com/Sameer6305)
 
-**Event Management Platform**
+**GenAI Prompt Engineering Pipeline**
 
-Complete hackathon management system with registration, team formation, and real-time dashboards.
+AI-powered daily reflection and image generation app with structured prompt orchestration and telemetry tracking.
 
-**Tech Stack:** React • Python • JavaScript
+**Tech Stack:** Python • Gemini API • Stable Diffusion XL • Flask
 
 **Key Features:**
-- 📝 Event registration
-- 👥 Team formation
-- 📊 Admin dashboards
-- 🏆 Leaderboards
+- 🎨 Gemini-driven prompt engineering
+- 🖼️ Stable Diffusion XL image generation
+- 📡 Telemetry for generation quality & latency
+- 🔁 Deterministic inference pipeline
 
 [![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
 
 </td>
 <td width="50%">
 
-### 📊 [Algorithm Visualizer](https://github.com/Sameer6305)
+### 🎙️ [SAARTHI](https://github.com/Sameer6305)
 
-**Interactive DSA Learning Tool**
+**Intelligent Voice Assistant with Explainable Reasoning**
 
-Step-by-step visualization of sorting and searching algorithms with interactive controls.
+Windows-based voice assistant with multi-step command reasoning, knowledge retrieval pipeline, and auditable inference chains.
 
-**Tech Stack:** JavaScript • Canvas API • CSS3
+**Tech Stack:** Python • OpenAI Whisper • Reasoning Engine • Windows SAPI
 
 **Key Features:**
-- 🔄 Live algorithm execution
-- 🎯 Interactive controls
-- 📈 Performance metrics
-- 🎨 Beautiful animations
+- 🗣️ OpenAI Whisper speech-to-text
+- 🧠 Explainable command reasoning chains
+- 🔍 Knowledge pipeline: local → Wikipedia → web
+- ⚙️ Automated desktop action execution
 
-[![View Demo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
+[![View Project](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sameer6305)
 
 </td>
 </tr>
@@ -173,47 +173,38 @@ Step-by-step visualization of sorting and searching algorithms with interactive 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
+**Data Engineering**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-**DevOps & Cloud**
+**AI / ML**
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Backend & Cloud**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**AI/ML & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
@@ -235,7 +226,6 @@ Step-by-step visualization of sorting and searching algorithms with interactive 
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer6305&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area_color=bf91f3&area=true&hide_border=true" />
 </p>
 
-
 ---
 
 ## 💡 Development Philosophy
@@ -245,29 +235,29 @@ Step-by-step visualization of sorting and searching algorithms with interactive 
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120px"/>
 <br><br>
-<strong>🎯 Quality Over Quantity</strong>
+<strong>🏗️ Architecture First</strong>
 <br><br>
-<sub>Writing clean, maintainable code that scales and stands the test of time</sub>
+<sub>Good data systems are designed before they're coded — schema, flow, and observability from day one</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/216644507-4f376954-3e0f-4f3b-9c7d-f2fc11f0b6e6.gif" width="120px"/>
 <br><br>
-<strong>🤝 Collaboration First</strong>
+<strong>🔍 Explainability Matters</strong>
 <br><br>
-<sub>Great products are built by great teams working together</sub>
+<sub>Whether it's a pipeline or a model — every output should be traceable, auditable, and trustworthy</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120px"/>
 <br><br>
-<strong>🚀 Ship Fast, Learn Faster</strong>
+<strong>🚀 Ship & Iterate</strong>
 <br><br>
-<sub>Iterate quickly, gather feedback, and improve continuously</sub>
+<sub>A working pipeline today beats a perfect one never. Build, observe, improve.</sub>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <em>"Code is poetry written in logic. Every line should tell a story, solve a problem, or make someone's life easier."</em>
+  <em>"Data without structure is noise. Pipelines without observability are blind. AI without explainability is risky."</em>
 </p>
 
 ---
@@ -280,29 +270,29 @@ Step-by-step visualization of sorting and searching algorithms with interactive 
 
 <br><br>
 
-### I'm always excited to collaborate on innovative projects! 🚀
+### Open to internships, collaborations, and interesting data problems 🚀
 
 <table>
 <tr>
 <td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-<br><strong>Full-time</strong>
-<br><sub>Opportunities</sub>
+<br><strong>Internships</strong>
+<br><sub>DE / AI/ML</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" />
 <br><strong>Freelance</strong>
-<br><sub>Projects</sub>
+<br><sub>Data Projects</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" />
 <br><strong>Open Source</strong>
-<br><sub>Contributions</sub>
+<br><sub>Data & AI Tools</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
 <br><strong>Startups</strong>
-<br><sub>Innovations</sub>
+<br><sub>Data Infrastructure</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
@@ -314,7 +304,7 @@ Step-by-step visualization of sorting and searching algorithms with interactive 
 
 <br>
 
-### 📫 Reach Out to Me
+### 📫 Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameerkadam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sskadam6305@gmail.com)
@@ -337,7 +327,7 @@ Step-by-step visualization of sorting and searching algorithms with interactive 
 
 <br>
 
-### 💡 *"Got an idea? Let's turn it into reality together!"*
+### 💡 *"Always open to interesting data engineering problems and ambitious AI projects."*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -375,6 +365,6 @@ Step-by-step visualization of sorting and searching algorithms with interactive 
 
 **Made with ❤️ by [Sameer Kadam](https://github.com/Sameer6305)**
 
-*Last Updated: November 2025*
+*Last Updated: March 2026*
 
 </div>
