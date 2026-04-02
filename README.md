@@ -1,4 +1,5 @@
 <!-- HEADER GIF -->
+
 <p align="center">
   <img src="Github_gif.gif" width="100%"/>
 </p>
@@ -39,20 +40,22 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Streaming Subscription Enforcement  
-Event-driven platform with Medallion architecture, Redis rate limiting, validation, and analytics  
+### 🔹 Streaming Subscription Enforcement
 
-**Tech:** Kafka • Spark • Delta Lake • Redis • Python  
+Event-driven platform with Medallion architecture, Redis rate limiting, validation, and analytics
+
+**Tech:** Kafka • Spark • Delta Lake • Redis • Python
 
 [🔗 Repo](https://github.com/Sameer6305/streaming-subscription-enforcement)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 CityAtlas  
-Lambda architecture with ETL pipelines and OLAP analytics  
+### 🔹 CityAtlas
 
-**Tech:** Java • Spring Boot • Kafka • PostgreSQL  
+Lambda architecture with ETL pipelines and OLAP analytics
+
+**Tech:** Java • Spring Boot • Kafka • PostgreSQL
 
 [🔗 Repo](https://github.com/Sameer6305/CityAtlas)
 
@@ -62,20 +65,22 @@ Lambda architecture with ETL pipelines and OLAP analytics
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Hackerzz Lobby  
-Full-stack developer platform with real-time backend  
+### 🔹 Hackerzz Lobby
 
-**Tech:** Node.js • REST APIs • JWT  
+Full-stack developer platform with real-time backend
+
+**Tech:** Node.js • REST APIs • JWT
 
 [🔗 Repo](https://github.com/Sameer6305/Hackerzz_lobby)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 SAARTHI  
-Voice assistant with multi-step reasoning pipeline  
+### 🔹 SAARTHI
 
-**Tech:** Python • Whisper • NLP  
+Voice assistant with multi-step reasoning pipeline
+
+**Tech:** Python • Whisper • NLP
 
 [🔗 Repo](https://github.com/Sameer6305/SAARTHI)
 
@@ -104,39 +109,37 @@ Voice assistant with multi-step reasoning pipeline
 
 ## 💻 Technology Stack
 
-<p align="center">
-
 <!-- Row 1 -->
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70"/>
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70"/>
-<img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="80"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70"/>
-
-<br><br>
+<p align="center">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="60"/>
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60"/>
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="60"/>
+<img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60"/>
+</p>
 
 <!-- Row 2 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70"/>
-
-<br><br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="60"/>
+</p>
 
 <!-- Row 3 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70"/>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60"/>
 </p>
 
 <p align="center">
-  <sub>⚡ Animated icons for better visual impact</sub>
+  <sub>⚡ Properly aligned rows (no vertical stacking)</sub>
 </p>
 
 ---
