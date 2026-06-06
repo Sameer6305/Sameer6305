@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=100&width=700&lines=Backend+Engineer;Data+Engineering+Learner;Building+Scalable+Systems;Open+to+Internships">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=30&height=100&width=700&lines=Backend+Engineer;AI+Engineering;Building+Scalable+Systems;Open+to+Internships">
 </p>
 
 <p align="center">
