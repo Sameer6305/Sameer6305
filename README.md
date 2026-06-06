@@ -13,7 +13,7 @@
 <h3 align="center">Sameer Kadam</h3>
 
 <p align="center">
-  Backend Engineer • Data Engineer
+  AI Engineer • Backend Engineer
 </p>
 
 <p align="center">
