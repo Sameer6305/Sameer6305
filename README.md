@@ -1,6 +1,6 @@
 <!-- HEADER GIF -->
 
-<p align="center">
+<p align="right">
   <img src="Github_gif.gif" width="100%"/>
 </p>
 
