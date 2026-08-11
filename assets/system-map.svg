@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 340" width="660" height="340">
+  <defs>
+    <style>
+      text { font-family: 'Courier New', Courier, monospace; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="660" height="340" fill="#141414"/>
+
+  <!-- ── Tier 1: AI SYSTEMS ─────────────────────────────────────── -->
+  <rect x="190" y="18" width="280" height="38" fill="#1C1C1C" stroke="#3A3835" stroke-width="1"/>
+  <text x="330" y="42" text-anchor="middle" fill="#E8E4DC" font-size="12" letter-spacing="2">AI SYSTEMS</text>
+  <text x="476" y="35" fill="#6A6560" font-size="9" letter-spacing="1">inference · reasoning · generation</text>
+
+  <!-- Connector AI → Semantic Infra -->
+  <line x1="330" y1="56" x2="330" y2="78" stroke="#9C9791" stroke-width="1"/>
+  <polygon points="326,74 334,74 330,79" fill="#9C9791"/>
+
+  <!-- ── Tier 2: SEMANTIC INFRASTRUCTURE ──────────────────────── -->
+  <rect x="130" y="78" width="400" height="38" fill="#1E1C1A" stroke="#3A3835" stroke-width="1"/>
+  <text x="330" y="102" text-anchor="middle" fill="#E8E4DC" font-size="12" letter-spacing="2">SEMANTIC INFRASTRUCTURE</text>
+  <text x="536" y="92" fill="#6A6560" font-size="9" letter-spacing="1">semantic layer · audit · provenance</text>
+
+  <!-- Bifurcate: left to Knowledge Graphs, right to Retrieval -->
+  <line x1="230" y1="116" x2="180" y2="148" stroke="#9C9791" stroke-width="1"/>
+  <line x1="430" y1="116" x2="480" y2="148" stroke="#9C9791" stroke-width="1"/>
+  <!-- center stem to data systems below -->
+  <line x1="330" y1="116" x2="330" y2="148" stroke="#3A3835" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- ── Tier 3L: KNOWLEDGE GRAPHS ─────────────────────────────── -->
+  <rect x="60" y="148" width="220" height="38" fill="#1C1C1C" stroke="#3A3835" stroke-width="1"/>
+  <text x="170" y="172" text-anchor="middle" fill="#E8E4DC" font-size="11" letter-spacing="2">KNOWLEDGE GRAPHS</text>
+  <text x="20" y="163" fill="#6A6560" font-size="9" letter-spacing="1">GraphRAG · Neo4j · SPARQL</text>
+
+  <!-- ── Tier 3R: RETRIEVAL ─────────────────────────────────────── -->
+  <rect x="380" y="148" width="220" height="38" fill="#1C1C1C" stroke="#3A3835" stroke-width="1"/>
+  <text x="490" y="172" text-anchor="middle" fill="#E8E4DC" font-size="11" letter-spacing="2">RETRIEVAL</text>
+  <text x="506" y="163" fill="#6A6560" font-size="9" letter-spacing="1">embeddings · vector · hybrid</text>
+
+  <!-- ── Tier 3C: DATA SYSTEMS (dashed — supporting layer) ──────── -->
+  <rect x="255" y="148" width="110" height="38" fill="#181816" stroke="#2E2C2A" stroke-width="1" stroke-dasharray="4,2"/>
+  <text x="310" y="168" text-anchor="middle" fill="#5A5855" font-size="9" letter-spacing="1">DATA</text>
+  <text x="310" y="180" text-anchor="middle" fill="#5A5855" font-size="9" letter-spacing="1">INGESTION</text>
+
+  <!-- Connectors to Developer Tooling -->
+  <line x1="170" y1="186" x2="240" y2="228" stroke="#9C9791" stroke-width="1"/>
+  <line x1="490" y1="186" x2="420" y2="228" stroke="#9C9791" stroke-width="1"/>
+  <line x1="310" y1="186" x2="330" y2="228" stroke="#3A3835" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- ── Tier 4: BACKEND INFRASTRUCTURE (bridge layer) ─────────── -->
+  <rect x="150" y="228" width="360" height="38" fill="#1E1C1A" stroke="#3A3835" stroke-width="1"/>
+  <text x="330" y="252" text-anchor="middle" fill="#E8E4DC" font-size="11" letter-spacing="2">BACKEND INFRASTRUCTURE</text>
+  <text x="516" y="245" fill="#6A6560" font-size="9" letter-spacing="1">APIs · services · pipelines</text>
+
+  <!-- Connector to Developer Tooling -->
+  <line x1="330" y1="266" x2="330" y2="286" stroke="#9C9791" stroke-width="1"/>
+  <polygon points="326,282 334,282 330,287" fill="#9C9791"/>
+
+  <!-- ── Tier 5: DEVELOPER TOOLING ─────────────────────────────── -->
+  <rect x="190" y="286" width="280" height="38" fill="#222018" stroke="#9C9791" stroke-width="1"/>
+  <text x="330" y="310" text-anchor="middle" fill="#BFA06A" font-size="12" letter-spacing="2">DEVELOPER TOOLING</text>
+  <text x="476" y="300" fill="#6A6560" font-size="9" letter-spacing="1">MCP · CLI · SDK · integrations</text>
+
+  <!-- ── Left margin label ──────────────────────────────────────── -->
+  <text x="10" y="60" fill="#3A3835" font-size="9" letter-spacing="1">LAYER 01</text>
+  <text x="10" y="118" fill="#3A3835" font-size="9" letter-spacing="1">LAYER 02</text>
+  <text x="10" y="190" fill="#3A3835" font-size="9" letter-spacing="1">LAYER 03</text>
+  <text x="10" y="252" fill="#3A3835" font-size="9" letter-spacing="1">LAYER 04</text>
+  <text x="10" y="310" fill="#3A3835" font-size="9" letter-spacing="1">LAYER 05</text>
+</svg>
