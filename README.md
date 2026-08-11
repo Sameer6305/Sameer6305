@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Sameer6305/Sameer6305/main/assets/hero-boot.gif" width="100%" alt="Sameer Kadam — AI Systems · Backend Engineering · Semantic Infrastructure"/>
+<img src="assets/hero-boot.gif" width="100%" alt="Sameer Kadam — AI Systems · Backend Engineering · Semantic Infrastructure"/>
 
 <sub>[GitHub](https://github.com/Sameer6305) · [LinkedIn](https://www.linkedin.com/in/sameerkadam6305/) · [Semantica](https://getsemantica.ai/) · sskadam6305@gmail.com</sub>
 
@@ -24,7 +24,7 @@
 
 <sup>03 / SYSTEM MAP</sup>
 
-<img src="https://raw.githubusercontent.com/Sameer6305/Sameer6305/main/assets/system-map.svg" width="100%" alt="System architecture: AI Systems → Semantic Infrastructure → Knowledge Graphs · Retrieval → Backend Infrastructure → Developer Tooling"/>
+<img src="assets/system-map.svg" width="100%" alt="System architecture: AI Systems → Semantic Infrastructure → Knowledge Graphs · Retrieval → Backend Infrastructure → Developer Tooling"/>
 
 ---
 
@@ -35,18 +35,22 @@
 <td width="50%" valign="top">
 
 `01` **GROUND TRUTH**
+
 AI systems lean on retrieval and knowledge graphs — not blind trust in model output.
 
 `02` **FAILURE CASES**
+
 The backend and data layer are designed around what happens when things break.
 
 </td>
 <td width="50%" valign="top">
 
 `03` **INTERFACES**
+
 APIs, CLIs, and MCP tools are part of the product — not secondary to it.
 
 `04` **DELIVERY**
+
 Tests and documentation ship with the feature. They are part of what "done" means.
 
 </td>
@@ -54,7 +58,9 @@ Tests and documentation ship with the feature. They are part of what "done" mean
 </table>
 
 **AI & SEMANTIC SYSTEMS** — LLMs · GraphRAG · Knowledge Graphs · Retrieval · NLP
+
 **BACKEND & INFRASTRUCTURE** — Python · Java · APIs · Distributed Systems · Docker · AWS · Redis
+
 **DATA & DISTRIBUTED SYSTEMS** — Kafka · Spark · ETL · SQL · Data Quality
 
 ---
