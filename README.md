@@ -1,117 +1,109 @@
-<div align="center">
+<table>
+<tr>
+<td width="72%" valign="middle">
 
-<br>
-
-# Sameer Kadam
-
+### Sameer Kadam
 AI Systems · Backend Engineering · Semantic Infrastructure
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3600&pause=2200&color=9C9791&center=true&vCenter=true&width=620&lines=The+backend+and+knowledge+layer+behind+AI+systems.)](https://github.com/Sameer6305)
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=3600&pause=2400&color=BFA06A&center=false&vCenter=true&width=460&height=30&lines=The+backend+and+knowledge+layer+behind+AI+systems.)](https://github.com/Sameer6305)
 
 [GitHub](https://github.com/Sameer6305) · [LinkedIn](https://www.linkedin.com/in/sameerkadam6305/) · [Semantica](https://getsemantica.ai/)
 
-</div>
+</td>
+<td width="28%" align="center">
+<img src="https://raw.githubusercontent.com/Sameer6305/Sameer6305/main/assets/mark.svg" width="88" alt=""/>
+</td>
+</tr>
+</table>
 
-<br><br>
-
----
-
-<br>
+**BUILDING AT THE INTERSECTION OF**
+`AI Systems` `Semantic Infrastructure` `Backend Systems` `Retrieval`
 
 My engineering work started in backend systems — services, APIs, data pipelines — and has moved steadily toward AI infrastructure: the retrieval pipelines, knowledge graphs, and semantic layers that let AI systems reason over real, structured knowledge instead of just generating plausible text. Most of that work now happens in the open, on infrastructure other engineers rely on.
 
-<br><br>
+#### How I Build
 
----
+<table>
+<tr>
+<td width="50%">
 
-<br>
+**Ground truth over generation**
+AI systems lean on retrieval and knowledge graphs, not blind trust in model output.
 
-**HOW I BUILD**
+</td>
+<td width="50%">
 
-<br>
+**Design for the failure case**
+The backend and data layer are built around what happens when things break.
 
-| | |
-|---|---|
-| **Ground truth over generation** | AI systems lean on retrieval and knowledge graphs, not blind trust in model output |
-| **Design for the failure case** | The backend and data layer are built around what happens when things break |
-| **Interfaces are the product** | APIs, CLIs, and MCP tools get the same care as the core logic behind them |
-| **Tests and docs ship with the code** | Not after it — they're part of what "done" means |
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<br><br>
+**Interfaces are the product**
+APIs, CLIs, and MCP tools get the same care as the core logic behind them.
 
----
+</td>
+<td width="50%">
 
-<br>
+**Tests and docs ship with the code**
+Not after — they're part of what "done" means.
 
-**CURRENT DIRECTION**
+</td>
+</tr>
+</table>
 
-<br>
+<table>
+<tr>
+<td width="52%" valign="top">
 
-*AI Systems &nbsp;→&nbsp; Semantic Infrastructure &nbsp;→&nbsp; Knowledge Graphs &nbsp;→&nbsp; Retrieval &nbsp;→&nbsp; Developer Tooling*
+#### Current Direction
 
-<br>
+`AI Systems` → `Semantic Infrastructure` → `Knowledge Graphs` → `Retrieval` → `Developer Tooling`
 
 Less focus on the model itself, more on what it can reliably see, retrieve, and reason over.
 
-<br><br>
+</td>
+<td width="48%" valign="top">
 
----
+#### Semantica <sub>· current work</sub>
 
-<br>
+Semantic data and knowledge infrastructure — a knowledge graph engine, retrieval framework, and semantic layer for AI systems that need to be explainable and auditable, not just fluent. I work on it as an AI systems and backend engineer: backend infrastructure, data ingestion and retrieval, graph architecture, and the MCP/CLI tooling developers use to integrate with it — alongside testing and code review on infrastructure other engineers depend on.
 
-**SEMANTICA**
+[Repository ↗](https://github.com/semantica-agi/semantica) · [getsemantica.ai ↗](https://getsemantica.ai/)
 
-<br>
+</td>
+</tr>
+</table>
 
-> *Current work*
->
-> Semantica is a semantic data and knowledge infrastructure project — a knowledge graph engine, retrieval framework, and semantic layer built for AI systems that need to be explainable and auditable, not just fluent. I work on it as an AI systems and backend engineer: backend infrastructure, data ingestion and retrieval, graph-based architecture, and the MCP and CLI tooling developers use to integrate with it, alongside testing and code review on infrastructure other engineers depend on day to day.
->
-> [Semantica repository](https://github.com/semantica-agi/semantica) · [getsemantica.ai](https://getsemantica.ai/)
+#### Technical Direction
 
-<br><br>
-
----
-
-<br>
-
-**TECHNICAL DIRECTION**
-
-<br>
+<table>
+<tr>
+<td width="34%">
 
 **AI & Semantic Systems**
 LLMs · GraphRAG · Knowledge Graphs · Retrieval · NLP
 
+</td>
+<td width="33%">
+
 **Backend & Infrastructure**
 Python · Java · APIs · Distributed Systems · Docker · AWS · Redis
+
+</td>
+<td width="33%">
 
 **Data & Distributed Systems**
 Kafka · Spark · ETL · SQL · Data Quality
 
-<br><br>
+</td>
+</tr>
+</table>
 
----
+<sub>Open-source activity, last 12 months</sub>
+<br/>
+<img src="https://ghchart.rshah.org/BFA06A/Sameer6305" width="46%" alt="open-source activity"/>
 
-<br>
-
-<div align="center">
-<img src="https://ghchart.rshah.org/9C9791/Sameer6305" alt="open-source activity" width="55%"/>
-
-<sub><i>open-source activity · last 12 months</i></sub>
-</div>
-
-<br><br>
-
----
-
-<br>
-
-<div align="center">
 <sub>sskadam6305@gmail.com · <a href="https://github.com/Sameer6305">GitHub</a> · <a href="https://www.linkedin.com/in/sameerkadam6305/">LinkedIn</a></sub>
-</div>
-
-<br>
