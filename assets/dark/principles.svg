@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 310" width="800" height="310">
+  <rect width="800" height="310" fill="#0E0E0E"/>
+  <text x="20" y="16" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="2" fill="#9C9791">ENGINEERING PRINCIPLES</text>
+  <line x1="20" y1="22" x2="780" y2="22" stroke="#2A2825" stroke-width="1"/>
+  <rect x="20" y="40" width="370" height="78" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="32" y="58" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#9C9791">01 / GROUND TRUTH</text>
+  <line x1="32" y1="64" x2="378" y2="64" stroke="#2A2825" stroke-width="1"/>
+  <text x="32" y="82" font-family="'Courier New', Courier, monospace" font-size="11" fill="#E8E4DC">AI systems lean on retrieval and knowledge graphs —</text>
+  <text x="32" y="98" font-family="'Courier New', Courier, monospace" font-size="11" fill="#4A4745">not blind trust in model output.</text>
+  <rect x="410" y="40" width="370" height="78" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="422" y="58" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#9C9791">02 / FAILURE CASES</text>
+  <line x1="422" y1="64" x2="768" y2="64" stroke="#2A2825" stroke-width="1"/>
+  <text x="422" y="82" font-family="'Courier New', Courier, monospace" font-size="11" fill="#E8E4DC">The backend and data layer are designed around</text>
+  <text x="422" y="98" font-family="'Courier New', Courier, monospace" font-size="11" fill="#4A4745">what happens when things break.</text>
+  <rect x="20" y="128" width="370" height="78" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="32" y="146" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#9C9791">03 / INTERFACES</text>
+  <line x1="32" y1="152" x2="378" y2="152" stroke="#2A2825" stroke-width="1"/>
+  <text x="32" y="170" font-family="'Courier New', Courier, monospace" font-size="11" fill="#E8E4DC">APIs, CLIs, and MCP tools are part of the product —</text>
+  <text x="32" y="186" font-family="'Courier New', Courier, monospace" font-size="11" fill="#4A4745">not secondary to the core logic.</text>
+  <rect x="410" y="128" width="370" height="78" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="422" y="146" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#9C9791">04 / DELIVERY</text>
+  <line x1="422" y1="152" x2="768" y2="152" stroke="#2A2825" stroke-width="1"/>
+  <text x="422" y="170" font-family="'Courier New', Courier, monospace" font-size="11" fill="#E8E4DC">Tests and documentation ship with the feature.</text>
+  <text x="422" y="186" font-family="'Courier New', Courier, monospace" font-size="11" fill="#4A4745">They are part of what  "done"  means.</text>
+  <line x1="20" y1="224" x2="780" y2="224" stroke="#2A2825" stroke-width="1"/>
+  <text x="20" y="238" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="2" fill="#9C9791">TECHNICAL DIRECTION</text>
+  <text x="20" y="254" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#E8E4DC" font-weight="700">AI &amp; SEMANTIC SYSTEMS</text>
+  <text x="215.0" y="254" font-family="'Courier New', Courier, monospace" font-size="10" fill="#6A6560">— LLMs · GraphRAG · Knowledge Graphs · Retrieval · NLP</text>
+  <text x="20" y="274" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#E8E4DC" font-weight="700">BACKEND &amp; INFRASTRUCTURE</text>
+  <text x="237.20000000000002" y="274" font-family="'Courier New', Courier, monospace" font-size="10" fill="#6A6560">— Python · Java · APIs · Distributed Systems · Docker · AWS · Redis</text>
+  <text x="20" y="294" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#E8E4DC" font-weight="700">DATA &amp; DISTRIBUTED SYSTEMS</text>
+  <text x="252.0" y="294" font-family="'Courier New', Courier, monospace" font-size="10" fill="#6A6560">— Kafka · Spark · ETL · SQL · Data Quality</text>
+  <line x1="20" y1="308" x2="780" y2="308" stroke="#2A2825" stroke-width="1"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 148" width="800" height="148">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+      .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="148" fill="#0E0E0E"/>
+
+  <!-- Top rule -->
+  <line x1="0" y1="1" x2="800" y2="1" stroke="#2A2825" stroke-width="1"/>
+
+  <!-- System tag — top left -->
+  <text x="20" y="20" class="mono" fill="#5A5754" font-size="9" letter-spacing="2">SYSTEM PROFILE · SK/001</text>
+
+  <!-- Status dot — top right -->
+  <circle cx="770" cy="15" r="3" fill="#9C9791" opacity="0.7"/>
+  <text x="744" y="19" class="mono" fill="#5A5754" font-size="9" letter-spacing="1">BUILD</text>
+
+  <!-- Name -->
+  <text x="20" y="68" class="sans" fill="#E8E4DC" font-size="38" font-weight="700" letter-spacing="-0.5">SAMEER KADAM</text>
+
+  <!-- Domain line -->
+  <text x="22" y="92" class="mono" fill="#9C9791" font-size="12" letter-spacing="1">AI Systems · Backend Engineering · Semantic Infrastructure</text>
+
+  <!-- Thin separator -->
+  <line x1="20" y1="106" x2="560" y2="106" stroke="#2A2825" stroke-width="1"/>
+
+  <!-- Technical statement -->
+  <text x="20" y="122" class="mono" fill="#4A4745" font-size="11" letter-spacing="0.5">The backend and knowledge layer behind AI systems.</text>
+
+  <!-- Links row -->
+  <text x="20" y="140" class="mono" fill="#5A5754" font-size="10" letter-spacing="1">github.com/Sameer6305</text>
+  <text x="192" y="140" class="mono" fill="#2A2825" font-size="10">·</text>
+  <text x="202" y="140" class="mono" fill="#5A5754" font-size="10" letter-spacing="1">linkedin</text>
+  <text x="258" y="140" class="mono" fill="#2A2825" font-size="10">·</text>
+  <text x="268" y="140" class="mono" fill="#5A5754" font-size="10" letter-spacing="1">getsemantica.ai</text>
+
+  <!-- Bottom rule -->
+  <line x1="0" y1="147" x2="800" y2="147" stroke="#2A2825" stroke-width="1"/>
+</svg>

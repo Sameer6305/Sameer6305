@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 230" width="800" height="230">
+  <rect width="800" height="230" fill="#F6F6F4"/>
+  <rect x="20" y="10" width="760" height="210" fill="#EEECEA" stroke="#C8C4C0" stroke-width="1"/>
+  <line x1="20" y1="10" x2="780" y2="10" stroke="#7A7673" stroke-width="1.5"/>
+  <text x="36" y="36" font-family="'Courier New', Courier, monospace" font-size="16" letter-spacing="4" font-weight="700" fill="#1A1816">SEMANTICA</text>
+  <rect x="166" y="22" width="116" height="16" fill="#F6F6F4" stroke="#7A7673" stroke-width="1" rx="2"/>
+  <text x="174" y="33" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="2" fill="#7A7673">BUILDING NOW</text>
+  <text x="36" y="54" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="1" fill="#8A8480">AI Systems &amp; Backend Engineering</text>
+  <line x1="36" y1="62" x2="764" y2="62" stroke="#DEDAD5" stroke-width="1"/>
+  <text x="36" y="80" font-family="'Courier New', Courier, monospace" font-size="11" fill="#1A1816">Semantic data and knowledge infrastructure for AI systems that need to be</text>
+  <text x="36" y="96" font-family="'Courier New', Courier, monospace" font-size="11" fill="#1A1816">explainable and auditable — not just fluent. A knowledge graph engine,</text>
+  <text x="36" y="112" font-family="'Courier New', Courier, monospace" font-size="11" fill="#1A1816">retrieval framework, and semantic layer built to close the gap between</text>
+  <text x="36" y="128" font-family="'Courier New', Courier, monospace" font-size="11" fill="#1A1816">language models and structured, verifiable knowledge.</text>
+  <text x="36" y="150" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="2" fill="#7A7673">SCOPE OF WORK</text>
+  <text x="36" y="166" font-family="'Courier New', Courier, monospace" font-size="10" fill="#B0ACA8">Backend infrastructure</text>
+  <text x="220" y="166" font-family="'Courier New', Courier, monospace" font-size="10" fill="#B0ACA8">Data ingestion / retrieval</text>
+  <text x="420" y="166" font-family="'Courier New', Courier, monospace" font-size="10" fill="#B0ACA8">Knowledge graph architecture</text>
+  <text x="36" y="182" font-family="'Courier New', Courier, monospace" font-size="10" fill="#B0ACA8">MCP server / CLI tooling</text>
+  <text x="220" y="182" font-family="'Courier New', Courier, monospace" font-size="10" fill="#B0ACA8">Integrations / developer tooling</text>
+  <text x="420" y="182" font-family="'Courier New', Courier, monospace" font-size="10" fill="#B0ACA8">Testing · code review · production</text>
+  <text x="36" y="206" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="1" fill="#7A7673">semantica-agi/semantica</text>
+  <text x="218" y="206" font-family="'Courier New', Courier, monospace" font-size="10" fill="#8A8480">·</text>
+  <text x="228" y="206" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="1" fill="#7A7673">getsemantica.ai</text>
+</svg>

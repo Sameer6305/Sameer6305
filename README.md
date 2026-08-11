@@ -1,68 +1,48 @@
 <img src="assets/hero-boot.gif" width="100%" alt="Sameer Kadam — AI Systems · Backend Engineering · Semantic Infrastructure"/>
 
-<sub>[GitHub](https://github.com/Sameer6305) · [LinkedIn](https://www.linkedin.com/in/sameerkadam6305/) · [Semantica](https://getsemantica.ai/) · sskadam6305@gmail.com</sub>
+<sub>[GitHub](https://github.com/Sameer6305) · [LinkedIn](https://www.linkedin.com/in/sameerkadam6305/) · [Semantica](https://getsemantica.ai/) · [sskadam6305@gmail.com](mailto:sskadam6305@gmail.com)</sub>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/s01.svg"/>
+  <img src="assets/light/s01.svg" width="100%" alt="01 — Engineering Identity"/>
+</picture>
 
-<sup>01 / ENGINEERING IDENTITY</sup>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/identity.svg"/>
+  <img src="assets/light/identity.svg" width="100%" alt="Engineering Identity"/>
+</picture>
 
-**My engineering work started in backend systems** — services, APIs, and data pipelines — and has moved steadily toward AI infrastructure: retrieval pipelines, knowledge graphs, and the semantic layers that let AI systems reason over real, structured knowledge instead of simply generating plausible text. Most of that work now happens in the open, on infrastructure other engineers rely on.
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/s02.svg"/>
+  <img src="assets/light/s02.svg" width="100%" alt="02 — Current Work"/>
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/semantica.svg"/>
+  <img src="assets/light/semantica.svg" width="100%" alt="Current Work — Semantica"/>
+</picture>
 
-<sup>02 / CURRENT WORK</sup>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/s03.svg"/>
+  <img src="assets/light/s03.svg" width="100%" alt="03 — System Map"/>
+</picture>
 
-**SEMANTICA** <sup>· BUILDING NOW</sup>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/system-map.svg"/>
+  <img src="assets/light/system-map.svg" width="100%" alt="System Map — Architecture"/>
+</picture>
 
-> Semantica is a semantic data and knowledge infrastructure project — a knowledge graph engine, retrieval framework, and semantic layer built for AI systems that need to be explainable and auditable, not just fluent.
->
-> I work on it as an AI systems and backend engineer across backend infrastructure, data ingestion and retrieval, graph-based architecture, MCP server and CLI tooling, integrations, testing, and code review — on infrastructure other engineers depend on day to day.
->
-> [semantica-agi/semantica ↗](https://github.com/semantica-agi/semantica) · [getsemantica.ai ↗](https://getsemantica.ai/)
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/s04.svg"/>
+  <img src="assets/light/s04.svg" width="100%" alt="04 — Engineering Principles"/>
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/principles.svg"/>
+  <img src="assets/light/principles.svg" width="100%" alt="Engineering Principles and Technical Direction"/>
+</picture>
 
-<sup>03 / SYSTEM MAP</sup>
-
-<img src="assets/system-map.svg" width="100%" alt="System architecture: AI Systems → Semantic Infrastructure → Knowledge Graphs · Retrieval → Backend Infrastructure → Developer Tooling"/>
-
----
-
-<sup>04 / ENGINEERING PRINCIPLES · TECHNICAL SPECIFICATION</sup>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-`01` **GROUND TRUTH**
-
-AI systems lean on retrieval and knowledge graphs — not blind trust in model output.
-
-`02` **FAILURE CASES**
-
-The backend and data layer are designed around what happens when things break.
-
-</td>
-<td width="50%" valign="top">
-
-`03` **INTERFACES**
-
-APIs, CLIs, and MCP tools are part of the product — not secondary to it.
-
-`04` **DELIVERY**
-
-Tests and documentation ship with the feature. They are part of what "done" means.
-
-</td>
-</tr>
-</table>
-
-**AI & SEMANTIC SYSTEMS** — LLMs · GraphRAG · Knowledge Graphs · Retrieval · NLP
-
-**BACKEND & INFRASTRUCTURE** — Python · Java · APIs · Distributed Systems · Docker · AWS · Redis
-
-**DATA & DISTRIBUTED SYSTEMS** — Kafka · Spark · ETL · SQL · Data Quality
-
----
-
-<sub>● BUILDING — [github.com/Sameer6305](https://github.com/Sameer6305) · [LinkedIn](https://www.linkedin.com/in/sameerkadam6305/) · [Semantica](https://getsemantica.ai/) · sskadam6305@gmail.com</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/dark/footer.svg"/>
+  <img src="assets/light/footer.svg" width="100%" alt="Status — Building"/>
+</picture>

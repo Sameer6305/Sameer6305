@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 56" width="800" height="56">
+  <rect width="800" height="56" fill="#0E0E0E"/>
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#2A2825" stroke-width="1"/>
+  <circle cx="26" cy="20" r="3" fill="#9C9791" opacity="0.8"/>
+  <text x="36" y="24" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2" fill="#9C9791">BUILDING</text>
+  <text x="104" y="24" font-family="'Courier New', Courier, monospace" font-size="10" fill="#2A2825">·</text>
+  <text x="114" y="24" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="1" fill="#6A6560">AI SYSTEMS · SEMANTIC INFRASTRUCTURE · OPEN SOURCE</text>
+  <text x="26" y="44" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="1" fill="#4A4745">github.com/Sameer6305</text>
+  <text x="176" y="44" font-family="'Courier New', Courier, monospace" font-size="9" fill="#2E2C2A">·</text>
+  <text x="186" y="44" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="1" fill="#4A4745">linkedin.com/in/sameerkadam6305</text>
+  <text x="386" y="44" font-family="'Courier New', Courier, monospace" font-size="9" fill="#2E2C2A">·</text>
+  <text x="396" y="44" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="1" fill="#4A4745">getsemantica.ai</text>
+  <text x="490" y="44" font-family="'Courier New', Courier, monospace" font-size="9" fill="#2E2C2A">·</text>
+  <text x="500" y="44" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="1" fill="#4A4745">sskadam6305@gmail.com</text>
+  <line x1="0" y1="55" x2="800" y2="55" stroke="#2A2825" stroke-width="1"/>
+</svg>

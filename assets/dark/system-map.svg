@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 344" width="800" height="344">
+  <rect width="800" height="344" fill="#0E0E0E"/>
+  <text x="10" y="44" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="1" fill="#2E2C2A">L01</text>
+  <text x="10" y="125" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="1" fill="#2E2C2A">L02</text>
+  <text x="10" y="205" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="1" fill="#2E2C2A">L03</text>
+  <text x="10" y="269" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="1" fill="#2E2C2A">L04</text>
+  <text x="10" y="328" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="1" fill="#2E2C2A">L05</text>
+  <rect x="250" y="12" width="300" height="32" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="400" y="33" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2" text-anchor="middle" fill="#E8E4DC">AI SYSTEMS</text>
+  <text x="558" y="32" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="0.5" fill="#2E2C2A">inference · generation · reasoning</text>
+  <rect x="110" y="95" width="220" height="30" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="220" y="115" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2" text-anchor="middle" fill="#E8E4DC">KNOWLEDGE GRAPHS</text>
+  <text x="338" y="114" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="0.5" fill="#2E2C2A">GraphRAG · Neo4j · SPARQL</text>
+  <rect x="480" y="95" width="200" height="30" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="580" y="115" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2" text-anchor="middle" fill="#E8E4DC">RETRIEVAL</text>
+  <text x="688" y="114" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="0.5" fill="#2E2C2A">vector · hybrid · BM25</text>
+  <rect x="270" y="175" width="260" height="30" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="400" y="195" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2" text-anchor="middle" fill="#E8E4DC">DATA / INGESTION</text>
+  <text x="538" y="194" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="0.5" fill="#2E2C2A">pipelines · ETL · batch</text>
+  <rect x="250" y="239" width="300" height="30" fill="#161412" stroke="#3A3835" stroke-width="1"/>
+  <text x="400" y="259" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2" text-anchor="middle" fill="#E8E4DC">BACKEND INFRASTRUCTURE</text>
+  <text x="558" y="258" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="0.5" fill="#2E2C2A">APIs · services · distributed</text>
+  <rect x="260" y="296" width="280" height="32" fill="#161412" stroke="#9C9791" stroke-width="1.5"/>
+  <text x="400" y="317" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2" text-anchor="middle" fill="#E8E4DC">DEVELOPER TOOLING</text>
+  <text x="548" y="316" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="0.5" fill="#2E2C2A">MCP · CLI · APIs · SDKs</text>
+  <line x1="400" y1="44" x2="400" y2="70" stroke="#4A4745" stroke-width="1"/>
+  <line x1="220" y1="70" x2="580" y2="70" stroke="#4A4745" stroke-width="1"/>
+  <line x1="220" y1="70" x2="220" y2="95" stroke="#4A4745" stroke-width="1"/>
+  <polygon points="216,92 224,92 220,96" fill="#4A4745"/>
+  <line x1="580" y1="70" x2="580" y2="95" stroke="#4A4745" stroke-width="1"/>
+  <polygon points="576,92 584,92 580,96" fill="#4A4745"/>
+  <line x1="220" y1="125" x2="220" y2="160" stroke="#4A4745" stroke-width="1"/>
+  <line x1="580" y1="125" x2="580" y2="160" stroke="#4A4745" stroke-width="1"/>
+  <line x1="220" y1="160" x2="580" y2="160" stroke="#4A4745" stroke-width="1"/>
+  <line x1="400" y1="160" x2="400" y2="175" stroke="#4A4745" stroke-width="1"/>
+  <polygon points="396,173 404,173 400,177" fill="#4A4745"/>
+  <line x1="400" y1="205" x2="400" y2="239" stroke="#4A4745" stroke-width="1"/>
+  <polygon points="396,237 404,237 400,241" fill="#4A4745"/>
+  <line x1="400" y1="269" x2="400" y2="296" stroke="#9C9791" stroke-width="1"/>
+  <polygon points="396,294 404,294 400,298" fill="#9C9791"/>
+  <line x1="30" y1="340" x2="770" y2="340" stroke="#2A2825" stroke-width="1"/>
+  <text x="30" y="344" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="1" fill="#2E2C2A">SAMEER KADAM · ENGINEERING SYSTEM · SK/001</text>
+</svg>
