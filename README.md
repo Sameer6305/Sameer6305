@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Sameer6305/Sameer6305/main/assets/hero-boot.gif" width="100%" alt="Sameer Kadam — AI Systems · Backend Engineering · Semantic Infrastructure"/>
 
-<sub>GitHub · [LinkedIn](https://www.linkedin.com/in/sameerkadam6305/) · [Semantica](https://getsemantica.ai/) · sskadam6305@gmail.com</sub>
+<sub>[GitHub](https://github.com/Sameer6305) · [LinkedIn](https://www.linkedin.com/in/sameerkadam6305/) · [Semantica](https://getsemantica.ai/) · sskadam6305@gmail.com</sub>
 
 ---
 
